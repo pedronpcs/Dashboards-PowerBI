@@ -3,7 +3,7 @@
 
  Na pasta ~docs você encontra os arquivos estáticos dos dashboards em pdf.
 
- [![Preview do Dashboard](/docs/dashboard_preview.png)](/docs/dashboard.pdf)
+ [![Preview do Dashboard](/docs/PreVisLogistica.png)](/docs/DashboardLogistica.pdf)
 
  ## Visualização do Dashboard
 Para uma versão estática dos dashboards:
